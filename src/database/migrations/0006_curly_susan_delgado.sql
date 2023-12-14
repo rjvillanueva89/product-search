@@ -1,0 +1,1 @@
+ALTER TABLE "products" ADD COLUMN "product_id" text NOT NULL;
